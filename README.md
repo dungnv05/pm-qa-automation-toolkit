@@ -87,6 +87,8 @@ Suggested views:
 - `Bugs` `Linked Story` → `Sprint Stories`
 - `Bugs` `Linked TC` → `Test Cases`
 
+### Sample Notion Template
+https://nickel-cloak-317.notion.site/PM-QA-Workspace-39a57f7f53fe8106af32f98aa3bafb37?source=copy_link
 ---
 
 ## Robot Framework + Playwright Starter
