@@ -1,3 +1,3 @@
 # Acceptance Criteria Prompts
 
-Copy-paste prompts to generate acceptance criteria faster in Notion AI or any LLM.
+Copy-paste prompts to generate acceptance criteria faster with Notion AI or any LLM.

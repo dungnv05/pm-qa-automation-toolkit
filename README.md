@@ -1,11 +1,11 @@
 # PM + QA Automation Toolkit
 
-Notion template + Robot Framework + Playwright starter kit for PMs who also run QA.
+Notion template + Robot Framework + Playwright starter kit for product managers who also run QA.
 
 ## What's Inside
-- `/notion-template/` — Notion template docs + sample schema
+- `/notion-template/` — template setup instructions
 - `/robot-playwright/` — Robot Framework + Playwright hybrid runner
-- `/acceptance-prompts/` — Notion AI / LLM prompts for acceptance criteria generation
+- `/acceptance-prompts/` — Notion AI / LLM prompts
 
 ## Quick Start
 ```bash
